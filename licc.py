@@ -1,6 +1,4 @@
 from music21 import *
-import matplotlib
-import scipy
 
 licc = [0, 2, 3, 5, 2, -2, 0]
 
